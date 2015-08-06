@@ -13,6 +13,7 @@ cd tiny-golang-docker
 ###3. install golang (if it is not installed already)
 
 apt-get install golang
+
 export GOPATH=/usr/share/go 
 
 ###4. install gorilla/mux (used for http routing)
