@@ -1,4 +1,4 @@
-FROM centurylink/ca-certs
+FROM scratch
 MAINTAINER Hendrix Tavarez "hendrix@lockerfish.com"
 EXPOSE 8080
 WORKDIR /app
